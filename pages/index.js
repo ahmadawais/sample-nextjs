@@ -7,10 +7,7 @@ export default function Home() {
         <h2 className="inter text-2xl mb-3 font-bold text-purple-800">
    
           <span className="block text-purple-700 text-2xl font-normal">
-            I help businesses understand developers.
-          </span>
-          <span className="block text-purple-800 text-2xl font-normal">
-            Award-winning Google Developers Expert DevRel.
+            I help businesses understand developers. Award-winning Google Developers Expert DevRel.
           </span>
         </h2>
 
