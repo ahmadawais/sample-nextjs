@@ -5,7 +5,7 @@ export default function Home() {
       <div className="lg:w-1/2 relative z-10 flex flex-col justify-center px-10 lg:px-20 py-20 lg:py-0 text-left">
         <h1 className="inter text-4xl mb-6 font-bold text-purple-800"><span className="block text-purple-700 text-2xl font-normal">👋 I'm </span><a href="https://twitter.com/MrAhmadAwais/">Ahmad Awais</a></h1>
         <h2 className="inter text-2xl mb-3 font-bold text-purple-800">
-          Nice to meet you.
+   
           <span className="block text-purple-700 text-2xl font-normal">
             I help businesses understand developers.
           </span>
@@ -24,7 +24,7 @@ export default function Home() {
           </a>
           <a
             href="https://twitter.com/MrAhmadAwais/"
-            className="block py-2 px-5 rounded shadow bg-purple-900 text-white-800"
+            className="block py-2 px-5 rounded shadow bg-purple-900 text-gray-100"
           >
             Follow on Twitter
           </a>
