@@ -3,8 +3,9 @@ export default function Home() {
     <div className="min-h-screen lg:flex text-lg">
       {/* left side */}
       <div className="lg:w-1/2 relative z-10 flex flex-col justify-center px-10 lg:px-20 py-20 lg:py-0 text-left">
+        <h1 className="inter text-8xl mb-6 font-bold text-purple-800">Awais</h1>
         <h2 className="inter text-4xl mb-3 font-bold text-gray-800">
-          Welcome to Your Next.js App{" "}
+          Welcome to my Next.js App{" "}
           <span className="block text-blue-500 text-2xl font-normal">
             Deployed to DigitalOcean
           </span>
