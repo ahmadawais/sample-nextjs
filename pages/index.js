@@ -3,30 +3,30 @@ export default function Home() {
     <div className="min-h-screen lg:flex text-lg">
       {/* left side */}
       <div className="lg:w-1/2 relative z-10 flex flex-col justify-center px-10 lg:px-20 py-20 lg:py-0 text-left">
-        <h1 className="inter text-4xl mb-6 font-bold text-purple-800"><a href="https://twitter.com/MrAhmadAwais/">@MrAhmadAwais</a> →</h1>
+        <h1 className="inter text-4xl mb-6 font-bold text-purple-800">👋{" "}<a href="https://twitter.com/MrAhmadAwais/">@MrAhmadAwais</a> →</h1>
         <h2 className="inter text-2xl mb-3 font-bold text-gray-800">
-          Welcome to my Next.js App{" "}
+          Nice to meet you.
           <span className="block text-blue-500 text-2xl font-normal">
-            Deployed to DigitalOcean
+            I help businesses understand developers.
           </span>
         </h2>
 
         <p className="text-gray-700 mb-6">
-          Deploy API routes, static frontend, databases, and more.
+          Award-winning Google Developers Expert DevRel.
         </p>
 
         <div className="sm:flex">
           <a
-            href="https://www.digitalocean.com/docs/app-platform"
+            href="https://AhmadAwais.com/"
             className="block py-2 px-5 rounded shadow bg-gray-500 text-gray-100 sm:mr-2 mb-2 sm:mb-0"
           >
-            View the Docs
+            Awais.dev Blog
           </a>
           <a
-            href="https://cloud.digitalocean.com/apps"
+            href="https://twitter.com/MrAhmadAwais/"
             className="block py-2 px-5 rounded shadow bg-blue-500 text-blue-100"
           >
-            View Your Dashboard
+            Follow on Twitter
           </a>
         </div>
       </div>
@@ -42,8 +42,8 @@ export default function Home() {
         </svg>
 
         <img
-          src="https://images.unsplash.com/photo-1505142468610-359e7d316be0"
-          alt="Ocean Image"
+          src="https://res.cloudinary.com/demo/image/fetch/q_auto/https://on.awais.dev/qGuNeD5B"
+          alt="Ahmad Awais"
           className="lg:absolute object-cover lg:inset-y-0 lg:right-0 lg:h-full lg:w-full"
         />
       </div>
