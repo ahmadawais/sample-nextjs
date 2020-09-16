@@ -9,19 +9,12 @@ export default function Home() {
           <span className="block text-purple-700 text-2xl font-normal">
             I help businesses understand developers.
           </span>
+          <span className="block text-purple-800 text-2xl font-normal">
+            Award-winning Google Developers Expert DevRel.
+          </span>
         </h2>
 
-        <p className="text-gray-700 mb-6">
-          Award-winning Google Developers Expert DevRel.
-        </p>
-
         <div className="sm:flex">
-          <a
-            href="https://AhmadAwais.com/"
-            className="block py-2 px-5 rounded shadow bg-gray-500 text-gray-100 sm:mr-2 mb-2 sm:mb-0"
-          >
-            Awais.dev Blog
-          </a>
           <a
             href="https://twitter.com/MrAhmadAwais/"
             className="block py-2 px-5 rounded shadow bg-purple-900 text-gray-100"
